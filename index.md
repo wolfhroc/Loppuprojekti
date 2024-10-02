@@ -24,15 +24,15 @@ Here's some words about the book _One Hundred Years..._.
 
 # Links
 
-[Search for it.](www.google.com)
-[You're **really, really** going to want to see this.](www.dailykitten.com)
+[Search for it.](http://www.google.com)
+[You're **really, really** going to want to see this.](http://www.dailykitten.com)
 #### The Latest News from [the BBC](www.bbc.com/news)
 Do you want to [see something fun][a fun place]?
 
 Well, do I have [the website for you][another fun place]!
 
-[a fun place]: www.zombo.com
-[another fun place]: www.stumbleupon.com
+[a fun place]: http://www.zombo.com
+[another fun place]: http://www.stumbleupon.com
 
 
 # Images
